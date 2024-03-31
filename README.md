@@ -7,7 +7,7 @@ Currently employed by **WithSecure Consulting**, where I primarily look after:
 * The summer internship program in the UK
 * UK university/student outreach
 
-In my previous life, I was a teaching assistant at the **University of Southampton**'s computer science department; I still occasionally pick up odd jobs there.
+In my previous life, I was a teaching assistant at the **University of Southampton**; I still occasionally pick up odd jobs there.
 
 ## current projects
 * I'm one of the maintainers of the recently-revived [drozer](https://labs.withsecure.com/tools/drozer) &mdash; a popular Android security tool. The [drozer console](https://github.com/WithSecureLabs/drozer) and [Android agent](https://github.com/WithSecureLabs/drozer-agent) can be found here on GitHub
