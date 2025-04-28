@@ -2,7 +2,7 @@
 
 My name is Miłosz <sub><sup>(pronounced /ˈmi.wɔʂ/ or *ME-wash*; easy to remember as a personal hygiene joke)</sup></sub>
 
-Currently employed by **WithSecure Consulting**, where I primarily look after:
+Currently employed by [**Reversec**](https://reversec.com/) (formerly WithSecure Consulting), where I primarily look after:
 * Our mobile security service area
 * The summer internship program in the UK
 * UK university/student outreach
